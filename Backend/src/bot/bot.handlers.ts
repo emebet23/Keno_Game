@@ -21,10 +21,10 @@ const WEBAPP_URL = env.WEBAPP_URL || "https://keno-game-fawn.vercel.app";
 
 // ─── Config ───────────────────────────────────────────────────────────
 // TODO: Replace with the real support account when available.
-const SUPPORT_USERNAME = "Jammygamessupport0";
+const SUPPORT_USERNAME = "ebor77";
 const SUPPORT_HANDLE = `Telegram: @${SUPPORT_USERNAME}`;
 
-const TELEBIRR_PHONE = "0943199970";
+const TELEBIRR_PHONE = "0973192123";
 const MIN_DEPOSIT = 20;
 const MIN_WITHDRAW = 500;
 
